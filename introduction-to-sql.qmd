@@ -147,4 +147,4 @@ I expect to review SQL query structure, sorting, limiting results, working with 
 
 ## Published Introduction to SQL Report
 
-[Published Introduction to SQL Report](PASTE-YOUR-GITHUB-PAGES-LINK-HERE)
+[Published Introduction to SQL Report](https://kebachez.github.io/ibm-6500-sql-learning-portfolio/)
