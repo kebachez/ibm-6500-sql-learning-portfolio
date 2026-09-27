@@ -1,0 +1,17 @@
+---
+title: "IBM 6500 SQL Learning Portfolio"
+format: html
+---
+
+# IBM 6500 SQL Learning Portfolio
+
+**Student:** Kevin Bachez  
+**Course:** IBM 6500
+
+This portfolio contains my DataCamp course-completion evidence and learning notes for SQL and BigQuery.
+
+## Reports
+
+- [Introduction to SQL](introduction-to-sql.html)
+- Introduction to BigQuery (to be completed)
+- Intermediate SQL (to be completed)
